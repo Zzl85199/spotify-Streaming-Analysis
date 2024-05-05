@@ -16,7 +16,6 @@ Kaggle數據集包含從Spotify獲取的2023年的歌曲數據，涵蓋了多個
 ```bash
 git clone https://github.com/Zzl85199/spotify-Streaming-Analysis.git
 ```
-打開`analysis_notebook.ipynb`，執行筆記本中的代碼塊以進行分析。
 
 ## 貢獻指南
 歡迎對本專案提出問題或建議，或提交Pull Request以改進分析或代碼。
